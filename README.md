@@ -5,8 +5,11 @@
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
+## ⚡️ Quick start
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+```bash
+What is Astronax?
+```
+```swift
+Astronax is a ROBLOX backdoor.
+```
