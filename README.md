@@ -22,6 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevDodger/Astronax/ma
 ```
 1. Insert this code below in a script. 👇
 https://raw.githubusercontent.com/DevDodger/Astronax/main/backdoor.lua
-2. Click on ServerScriptService and find the option that says LoadStringEnabled and make sure it is on
+2. Click on ServerScriptService and find the option that says LoadStringEnabled and make sure it is on. It should look like this
+👇
 ```
 <img src="https://cdn.discordapp.com/attachments/1059888947511181384/1059933683538215034/image.png"/>
